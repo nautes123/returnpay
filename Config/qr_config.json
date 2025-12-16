@@ -1,0 +1,16 @@
+﻿{ 
+	"ServerIp":"127.0.0.1",
+	"ServerPort":9191,
+	"UseQr":"yes",
+	"QrInfo":{
+		"Port":"COM6",
+		"BaudRate":9600,
+		"DataBits":8,
+		"Parity":0,
+		"StopBits":1
+	},
+	
+	"IMAGE_DIR":"../SaveImage",
+	"IMAGE_TYPE":"jpg"
+	
+}
